@@ -1,0 +1,23 @@
+{
+  "name": "technodev2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnoDev2/TechnoDev2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechnoDev2/TechnoDev2/issues"
+  },
+  "homepage": "https://github.com/TechnoDev2/TechnoDev2#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
